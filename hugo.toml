@@ -1,0 +1,29 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'vi'
+defaultContentLanguage = 'vi'
+title = 'CampusKit'
+
+[params]
+  # >>> THAY bằng slogan thật của nhóm
+  slogan = 'Đủ đồ dùng, vào học là chiến.'
+  # >>> THAY bằng email/Zalo/fanpage thật (hoặc giả lập) của nhóm
+  email = 'campuskit.team@example.com'
+  zalo = '0900 000 000'
+  description = 'CampusKit - đồ dùng và phụ kiện học tập cho sinh viên.'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[menus]
+  [[menus.main]]
+    name = 'Sản phẩm'
+    url = '/san-pham/'
+    weight = 1
+  [[menus.main]]
+    name = 'Giới thiệu'
+    url = '/gioi-thieu/'
+    weight = 2
+  [[menus.main]]
+    name = 'Liên hệ'
+    url = '/lien-he/'
+    weight = 3

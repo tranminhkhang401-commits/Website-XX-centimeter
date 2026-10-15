@@ -1,0 +1,39 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p class="note">⚠️ Đây là thanh toán <strong>mô phỏng</strong>. Không trừ tiền thật, hãy dùng thông tin giả, không nhập thông tin cá nhân thật.</p>
+<div id="cart-empty" class="center" hidden>
+  <p>Giỏ hàng đang trống.</p>
+  <a class="btn" href="{{ "san-pham/" | relURL }}">Mua sắm ngay</a>
+</div>
+<div id="cart-wrap" class="cart-layout" hidden>
+  <section id="cart-items"></section>
+  <aside class="summary">
+    <h2>Thanh toán</h2>
+    <div class="coupon">
+      <input id="coupon" placeholder="Mã giảm giá (thử CAMPUS10)">
+      <button class="btn" id="apply-coupon" type="button">Áp dụng</button>
+    </div>
+    <p id="coupon-msg" class="muted"></p>
+    <dl class="totals">
+      <dt>Tạm tính</dt><dd id="t-sub"></dd>
+      <dt>Giảm giá</dt><dd id="t-disc"></dd>
+      <dt>Phí giao</dt><dd id="t-ship"></dd>
+      <dt class="grand">Tổng</dt><dd class="grand" id="t-total"></dd>
+    </dl>
+    <p class="muted"><small>Miễn phí giao từ 200.000đ.</small></p>
+    <form id="checkout-form">
+      <label>Họ tên (giả) <input name="name" required></label>
+      <label>SĐT (giả) <input name="phone" required inputmode="tel"></label>
+      <label>Nơi nhận (VD: sảnh toà A) <input name="addr" required></label>
+      <fieldset>
+        <legend>Phương thức thanh toán</legend>
+        <label class="radio"><input type="radio" name="pay" value="Thanh toán khi nhận hàng (COD)" checked> Thanh toán khi nhận hàng</label>
+        <label class="radio"><input type="radio" name="pay" value="Chuyển khoản (mô phỏng)"> Chuyển khoản (mô phỏng)</label>
+        <label class="radio"><input type="radio" name="pay" value="Ví điện tử (mô phỏng)"> Ví điện tử (mô phỏng)</label>
+      </fieldset>
+      <button class="btn block" type="submit">Đặt hàng (mô phỏng)</button>
+    </form>
+  </aside>
+</div>
+<div id="order-success" class="success" hidden></div>
+{{ end }}

@@ -1,0 +1,10 @@
+<header class="site-header">
+  <a class="brand" href="{{ "/" | relURL }}">
+    <img src="{{ "images/logo.svg" | relURL }}" alt="Logo CampusKit" width="36" height="36">
+    <span>{{ site.Title }}</span>
+  </a>
+  <nav>
+    {{ range site.Menus.main }}<a href="{{ .URL | relURL }}">{{ .Name }}</a>{{ end }}
+    <a class="cart-link" href="{{ "gio-hang/" | relURL }}">🛒 <span class="cart-count">0</span></a>
+  </nav>
+</header>

@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="toolbar">
+  <input id="search" type="search" placeholder="Tìm sản phẩm...">
+  <select id="category">
+    <option value="">Tất cả danh mục</option>
+    {{ $cats := slice }}
+    {{ range .Pages }}{{ with .Params.category }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+    {{ range $cats | uniq }}<option value="{{ . }}">{{ . }}</option>{{ end }}
+  </select>
+</div>
+<div class="grid" id="product-grid">
+  {{ range .Pages }}{{ partial "product-card.html" . }}{{ end }}
+</div>
+<p id="no-result" class="center muted" hidden>Không tìm thấy sản phẩm phù hợp.</p>
+{{ end }}

@@ -1,0 +1,11 @@
+<article class="card" data-name="{{ .Title | lower }}" data-category="{{ .Params.category }}">
+  <a href="{{ .RelPermalink }}">
+    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+    <h3>{{ .Title }}</h3>
+  </a>
+  <p class="muted">{{ .Params.summary }}</p>
+  <div class="card-bottom">
+    <span class="price vnd">{{ .Params.price }}</span>
+    <button class="btn add-to-cart" data-id="{{ .File.BaseFileName }}" data-name="{{ .Title }}" data-price="{{ .Params.price }}" data-image="{{ .Params.image | relURL }}">Thêm vào giỏ</button>
+  </div>
+</article>

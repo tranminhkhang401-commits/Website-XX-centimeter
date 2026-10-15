@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="detail">
+  <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+  <div>
+    <p class="muted">{{ .Params.category }}</p>
+    <h1>{{ .Title }}</h1>
+    <p class="price big vnd">{{ .Params.price }}</p>
+    <p><strong>{{ .Params.summary }}</strong></p>
+    <div>{{ .Content }}</div>
+    <button class="btn add-to-cart" data-id="{{ .File.BaseFileName }}" data-name="{{ .Title }}" data-price="{{ .Params.price }}" data-image="{{ .Params.image | relURL }}">Thêm vào giỏ</button>
+    <p><a href="{{ "san-pham/" | relURL }}">← Quay lại danh sách</a></p>
+  </div>
+</article>
+{{ end }}

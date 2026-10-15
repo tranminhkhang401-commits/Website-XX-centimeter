@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.Params.description }}">
+  <title>{{ if .IsHome }}{{ site.Title }} - {{ site.Params.slogan }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  <link rel="icon" href="{{ "images/logo.svg" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+  {{ partial "header.html" . }}
+  <main>{{ block "main" . }}{{ end }}</main>
+  {{ partial "footer.html" . }}
+  <script src="{{ "js/cart.js" | relURL }}"></script>
+</body>
+</html>
