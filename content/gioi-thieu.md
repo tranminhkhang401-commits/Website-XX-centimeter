@@ -3,7 +3,7 @@ title: "Giới thiệu"
 ---
 ## Chúng mình là ai?
 
-CampusKit là startup do nhóm sinh viên CSC00006 thực hiện (**THAY bằng tên nhóm, lớp, trường**).
+CampusKit là startup do nhóm sinh viên lớp 26TNT1, trường Đại học Khoa học tự nhiên - ĐHQGHCM (HCMUS) thực hiện 
 
 ## Vấn đề chúng mình giải quyết
 
