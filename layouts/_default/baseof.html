@@ -6,9 +6,14 @@
   <meta name="description" content="{{ site.Params.description }}">
   <title>{{ if .IsHome }}{{ site.Title }} - {{ site.Params.slogan }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
   <link rel="icon" href="{{ "images/logo.svg" | relURL }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;800;900&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
 <body>
+  {{ $promo := site.Params.promo | default "★ Freeship từ 200K ★ Nhập CAMPUS10 giảm 10% ★ Đồ dùng học tập giá sinh viên ★" }}
+  <div class="ticker"><span>{{ $promo }}</span></div>
   {{ partial "header.html" . }}
   <main>{{ block "main" . }}{{ end }}</main>
   {{ partial "footer.html" . }}
