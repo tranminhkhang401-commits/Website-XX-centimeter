@@ -3,12 +3,13 @@ title: "Giới thiệu"
 ---
 ## Chúng mình là ai?
 
-CampusKit là startup do nhóm sinh viên lớp 26TNT1, trường Đại học Khoa học tự nhiên - ĐHQGHCM (HCMUS) thực hiện 
+CampusKit là startup do nhóm sinh viên lớp 26TNT1, trường Đại học Khoa học tự nhiên - ĐHQGHCM thực hiện 
 
 ## Vấn đề chúng mình giải quyết
 
-**THAY bằng vấn đề thật nhóm đã khảo sát.** Ví dụ: đồ dùng học tập bán rải rác, giá không đồng đều, mua gấp vào mùa thi rất bất tiện.
+Các bạn sinh viên thường mua đồ dùng học tập rải rác, đợi đến lúc hết mới mua. Bút hết mực đúng giờ kiểm tra, vở hết trang giữa buổi học, máy tính cầm tay quên mang vào ngày thi, và lúc đó phải chạy đi tìm cửa hàng, nhiều khi đúng món mình cần lại không có. Mỗi lần mua một ít ở mỗi nơi vừa mất thời gian, vừa khó so sánh giá, vừa dễ mua trúng hàng kém chất lượng.
 
+**CampusKit** gom những món sinh viên cần nhất vào một nơi: chọn nhanh trên điện thoại, giá hợp lý, có combo tiết kiệm và nhận tại trường. Bạn chỉ cần lo học, phần đồ dùng để tụi mình lo.
 ## Giải pháp
 
 CampusKit chọn sẵn những món sinh viên dùng thật, đóng gói gọn, giá hợp lý và đặt được chỉ trong vài chạm.
@@ -17,16 +18,16 @@ CampusKit chọn sẵn những món sinh viên dùng thật, đóng gói gọn, 
 
 - Chọn lọc: món nào cũng được nhóm dùng thử.
 - Giá sinh viên, có mã giảm giá.
-- Mua nhanh trên điện thoại.
+- Mua nhan gọn trên điện thoại.
 
 ## Thành viên nhóm
 
 | Thành viên | Vai trò |
 |---|---|
-| **THAY: Họ tên 1** | Trưởng nhóm |
-| **THAY: Họ tên 2** | Lập trình Hugo |
-| **THAY: Họ tên 3** | Giỏ hàng JavaScript |
-| **THAY: Họ tên 4** | Nội dung |
-| **THAY: Họ tên 5** | Thiết kế, poster |
+| Nguyễn Ngọc Gia Bảo | Trưởng nhóm |
+| Trần Minh Khang | Lập trình Hugo |
+| Trần Phúc Thịnh | Lập trình Hugo |
+| Đoàn Cao Ngọc Thiên Trí | Giỏ hàng Javascript |
+| Trương Minh Khoa | Thiết kế, poster |
 
 *Website này là sản phẩm của đồ án môn học. Mọi đơn hàng và thanh toán đều là mô phỏng.*
