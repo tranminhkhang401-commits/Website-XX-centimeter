@@ -18,7 +18,7 @@ CampusKit chọn sẵn những món sinh viên dùng thật, đóng gói gọn, 
 
 - Chọn lọc: món nào cũng được nhóm dùng thử.
 - Giá sinh viên, có mã giảm giá.
-- Mua nhan gọn trên điện thoại.
+- Mua nhanh gọn trên điện thoại.
 
 ## Thành viên nhóm
 
