@@ -2,7 +2,7 @@
 title: "Sổ tay dot-grid A5"
 price: 45000
 category: "Sổ & giấy"
-image: "images/so-tay.svg"
+image: "images/sotay.jpg"
 summary: "Sổ chấm bi 100 trang, giấy dày không lem mực."
 weight: 1
 ---
