@@ -27,7 +27,7 @@ CampusKit chọn sẵn những món sinh viên dùng thật, đóng gói gọn, 
 | Nguyễn Ngọc Gia Bảo | Trưởng nhóm |
 | Trần Minh Khang | Lập trình Hugo |
 | Trần Phúc Thịnh | Lập trình Hugo |
-| Đoàn Cao Ngọc Thiên Trí | Giỏ hàng Javascript |
-| Trương Minh Khoa | Thiết kế, poster |
+| Đoàn Cao Ngọc Thiên Trí | Thiết kế poster |
+| Trương Minh Khoa | Thiết kế poster |
 
 *Website này là sản phẩm của đồ án môn học. Mọi đơn hàng và thanh toán đều là mô phỏng.*
