@@ -12,4 +12,5 @@ Bạn cần tư vấn chọn đồ hay có góp ý? Liên hệ CampusKit:
 
 Chỉ mất chưa đến 30 giây, ẩn danh, giúp CampusKit tốt hơn mỗi ngày.
 
-<a class="btn" href="https://docs.google.com/forms/d/e/.../viewform" target="_blank" rel="noopener">📝 Mở form góp ý</a>
+<a class="btn" href="   git add .
+   git commit -m "Gắn form góp ý"https://forms.gle/NHLvt8JuWp4bJR5v5" target="_blank" rel="noopener">📝 Mở form góp ý</a>

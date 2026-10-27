@@ -2,7 +2,7 @@
 title: "Bấm kim mini"
 price: 25000
 category: "Phụ kiện bàn học"
-image: "images/bam-kim-mini.svg"
+image: "images/Bấm kim mini.webp"
 summary: "Đóng bài tập nhanh gọn, nhỏ như lòng bàn tay."
 weight: 15
 ---

@@ -2,7 +2,7 @@
 title: "Balo laptop chống nước 15.6 inch"
 price: 289000
 category: "Balo & túi"
-image: "images/balo.svg"
+image: "images/balo.jpg"
 summary: "Ngăn laptop có đệm, vải chống nước."
 weight: 4
 ---

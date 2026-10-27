@@ -7,8 +7,8 @@ title = 'CampusKit'
   # >>> THAY bằng slogan thật của nhóm
   slogan = 'Đủ đồ dùng, vào học là chiến.'
   # >>> THAY bằng email/Zalo/fanpage thật (hoặc giả lập) của nhóm
-  email = 'campuskit20cm@gmail.com'
-  zalo = '0909 999 999'
+  email = 'campuskitXXcm@gmail.com'
+  zalo = '0909 123 456'
   description = 'CampusKit - đồ dùng và phụ kiện học tập cho sinh viên.'
 
 [markup.goldmark.renderer]
