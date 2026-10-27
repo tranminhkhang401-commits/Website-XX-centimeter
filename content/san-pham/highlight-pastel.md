@@ -2,7 +2,7 @@
 title: "Bộ 5 bút highlight pastel"
 price: 35000
 category: "Bút"
-image: "images/highlight.svg"
+image: "images/buthightlight.png"
 summary: "Màu pastel dịu mắt, tô không lem chữ."
 weight: 3
 ---

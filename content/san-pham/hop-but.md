@@ -2,7 +2,7 @@
 title: "Hộp bút"
 price: 55000
 category: "Bút & dụng cụ"
-image: "images/hop-but.svg"
+image: "images/hộp bút.webp"
 summary: "Gọn gàng, bỏ vừa balo, bút thước có chỗ riêng."
 weight: 8
 ---

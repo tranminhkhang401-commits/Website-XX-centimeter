@@ -2,7 +2,7 @@
 title: "Bình nước giữ nhiệt 500ml"
 price: 119000
 category: "Phụ kiện bàn học"
-image: "images/binh-nuoc.jpg"
+image: "images/binhnuoc.webp"
 summary: "Giữ nhiệt lâu, nắp kín không rò rỉ, bỏ vừa balo."
 weight: 7
 ---

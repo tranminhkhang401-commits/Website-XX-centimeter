@@ -2,7 +2,7 @@
 title: "Bộ 6 bút gel mực đen 0.5mm"
 price: 39000
 category: "Bút"
-image: "images/but-gel.svg"
+image: "images/But-Gel-Deli-A575-Ngoi-0.5mm-Muc-Den.webp"
 summary: "Mực ra đều, khô nhanh, hợp tay trái và tay phải."
 weight: 2
 ---

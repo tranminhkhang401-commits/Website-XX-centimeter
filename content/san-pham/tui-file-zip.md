@@ -2,7 +2,7 @@
 title: "Combo 5 túi file zip A4"
 price: 50000
 category: "Balo & túi"
-image: "images/tui-file-zip.svg"
+image: "images/Túi zip.webp"
 summary: "Giữ đề cương, bài tập phẳng phiu, không lo nhàu hay thất lạc."
 weight: 14
 ---

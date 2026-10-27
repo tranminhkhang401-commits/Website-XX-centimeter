@@ -2,7 +2,7 @@
 title: "Đèn LED kẹp bàn mini"
 price: 129000
 category: "Phụ kiện bàn học"
-image: "images/den.svg"
+image: "images/denledkep -Đã sửa.jpg"
 summary: "3 mức sáng, sạc USB type C, kẹp được mọi mép bàn."
 weight: 5
 ---

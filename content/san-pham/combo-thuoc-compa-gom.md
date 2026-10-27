@@ -2,7 +2,7 @@
 title: "Combo thước kẻ, compa và gôm"
 price: 49000
 category: "Bút & dụng cụ"
-image: "images/combo-thuoc-compa-gom.svg"
+image: "images/Combo thước kẻ compa và gôm.webp"
 summary: "Một combo đủ bộ dụng cụ cho môn vẽ kỹ thuật và toán."
 weight: 12
 ---

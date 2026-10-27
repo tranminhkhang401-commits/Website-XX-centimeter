@@ -2,7 +2,7 @@
 title: "Giấy note nhiều màu"
 price: 19000
 category: "Sổ & giấy"
-image: "images/giay-note.svg"
+image: "images/Giấy note nhiều màu.jpg"
 summary: "Dán nhanh ý chính, nhắc deadline ngay trên bàn học."
 weight: 13
 ---

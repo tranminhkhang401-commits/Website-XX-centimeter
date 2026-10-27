@@ -2,7 +2,7 @@
 title: "Bộ dây đeo thẻ"
 price: 29000
 category: "Phụ kiện sinh viên"
-image: "images/day-deo-the.svg"
+image: "images/Bộ dây đeo thẻ.webp"
 summary: "Thẻ sinh viên luôn trong tầm tay, không lo đánh rơi."
 weight: 11
 ---

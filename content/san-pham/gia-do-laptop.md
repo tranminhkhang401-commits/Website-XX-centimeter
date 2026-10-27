@@ -2,7 +2,7 @@
 title: "Giá đỡ laptop gấp gọn"
 price: 99000
 category: "Phụ kiện bàn học"
-image: "images/gia-do.svg"
+image: "images/Giadolaptop.webp"
 summary: "Nhôm nhẹ, gấp phẳng, nâng màn hình lên ngangtầm mắt."
 weight: 6
 ---

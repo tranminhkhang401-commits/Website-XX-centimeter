@@ -2,7 +2,7 @@
 title: "Vở sinh viên"
 price: 25000
 category: "Sổ & giấy"
-image: "images/vo-sinh-vien.svg"
+image: "images/Vở.webp"
 summary: "Giấy dày, ít lem mực, đủ trang cho cả học kỳ."
 weight: 10
 ---
