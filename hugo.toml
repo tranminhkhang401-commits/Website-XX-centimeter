@@ -13,7 +13,11 @@ title = 'CampusKit'
 
 [markup.goldmark.renderer]
   unsafe = true
-
+[menus]
+  [[menus.main]]
+    name = 'Sản phẩm'
+    url = '/san-pham/'
+    weight = 1
 [menus]
   [[menus.main]]
     name = 'Sản phẩm'
