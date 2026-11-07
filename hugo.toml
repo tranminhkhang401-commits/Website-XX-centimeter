@@ -15,19 +15,14 @@ title = 'CampusKit'
   unsafe = true
 [menus]
   [[menus.main]]
-    name = 'Trang chủ'
-    url = '/san-pham/'
-    weight = 1
-[menus]
-  [[menus.main]]
     name = 'Sản phẩm'
     url = '/san-pham/'
-    weight = 2
+    weight = 1
   [[menus.main]]
     name = 'Giới thiệu'
     url = '/gioi-thieu/'
-    weight = 3
+    weight = 2
   [[menus.main]]
     name = 'Liên hệ'
     url = '/lien-he/'
-    weight = 4
+    weight = 3
